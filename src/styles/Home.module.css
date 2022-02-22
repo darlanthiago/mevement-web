@@ -1,0 +1,12 @@
+.container {
+  background-color: #464683;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  height: 100vh;
+}
+
+.image {
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.61);
+}
